@@ -1,6 +1,6 @@
 # Overview
 
-Introduction here.
+Code for our otosclerosis diagnostic model.
 
 # System Requirements
 
