@@ -33,13 +33,12 @@ Python Package Versions:
 # Installation Guide
 
 A working version of CUDA, python and pytorch. This should be easy and simple installation. 
-CUDA(https://developer.nvidia.com/cuda-downloads)
-pytorch(https://pytorch.org/get-started/locally/) 
-python(https://www.python.org/downloads/)
+
+* CUDA(https://developer.nvidia.com/cuda-downloads)
+* pytorch(https://pytorch.org/get-started/locally/) 
+* python(https://www.python.org/downloads/)
 
 # Usage of source code
-
-Enter into folder "detect" for detection and classification of otosclerosis.
 
 ## Training
 
